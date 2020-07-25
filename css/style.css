@@ -1,0 +1,16 @@
+body {
+    background-color: #ddd;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.navbar-brand span {
+    font-style: italic;
+}
+
+.error {
+    font-size: 10em;
+}
+
